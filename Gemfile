@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem "github-pages", "~> 228", group: :jekyll_plugins
 gem "jekyll-compress-images"
 gem "jekyll-feed"
 gem "jekyll-remote-theme"
